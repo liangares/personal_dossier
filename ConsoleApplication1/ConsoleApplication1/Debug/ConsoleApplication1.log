@@ -1,0 +1,17 @@
+﻿  ConsoleApplication1.cpp
+d:\programmo\vs\winsork\consoleapplication1\consoleapplication1\stdafx.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\programmo\vs\winsork\consoleapplication1\consoleapplication1\consoleapplication1.cpp(170): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+  d:\programmo\vs\winsork\consoleapplication1\consoleapplication1\consoleapplication1.cpp(170): note: 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+  d:\programmo\vs\winsork\consoleapplication1\consoleapplication1\consoleapplication1.cpp(170): note: 缺失的可变参数 1 为格式字符串“%0X”所需
+d:\programmo\vs\winsork\consoleapplication1\consoleapplication1\consoleapplication1.cpp(139): warning C4101: “i”: 未引用的局部变量
+d:\programmo\vs\winsork\consoleapplication1\consoleapplication1\consoleapplication1.cpp(322): warning C4101: “offset”: 未引用的局部变量
+d:\programmo\vs\winsork\consoleapplication1\consoleapplication1\consoleapplication1.cpp(323): warning C4101: “tos”: 未引用的局部变量
+d:\programmo\vs\winsork\consoleapplication1\consoleapplication1\consoleapplication1.cpp(357): warning C4101: “len”: 未引用的局部变量
+d:\programmo\vs\winsork\consoleapplication1\consoleapplication1\consoleapplication1.cpp(355): warning C4101: “source_port”: 未引用的局部变量
+d:\programmo\vs\winsork\consoleapplication1\consoleapplication1\consoleapplication1.cpp(358): warning C4101: “check”: 未引用的局部变量
+d:\programmo\vs\winsork\consoleapplication1\consoleapplication1\consoleapplication1.cpp(356): warning C4101: “dest_port”: 未引用的局部变量
+d:\programmo\vs\winsork\consoleapplication1\consoleapplication1\consoleapplication1.cpp(421): warning C4101: “sum”: 未引用的局部变量
+d:\programmo\vs\winsork\consoleapplication1\consoleapplication1\consoleapplication1.cpp(422): warning C4101: “nword”: 未引用的局部变量
+d:\programmo\vs\winsork\consoleapplication1\consoleapplication1\consoleapplication1.cpp(503): warning C4101: “net_interface”: 未引用的局部变量
+  ConsoleApplication1.vcxproj -> D:\Programmo\vs\winsork\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> D:\Programmo\vs\winsork\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Partial PDB)
